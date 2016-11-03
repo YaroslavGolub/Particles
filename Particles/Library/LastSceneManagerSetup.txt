@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/CartoonExplosion.unity
+- path: Assets/_Scenes/HealingEffect.unity
   isLoaded: 1
   isActive: 1
